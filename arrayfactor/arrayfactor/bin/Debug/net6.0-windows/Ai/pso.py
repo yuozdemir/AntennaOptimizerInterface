@@ -146,7 +146,13 @@ class PSO:
                 self.best_bw = hp_bw
 
     def main(self):
-        for i in range(self.n_swarm):
+        self.b = [np.random.uniform(b_bounds[1], b_bounds[1]) for _ in range(self.n)]
+        self.d = [np.random.uniform(d_bounds[1], d_bounds[1]) for _ in range(self.n)]
+        self.w = [np.random.uniform(w_bounds[1], w_bounds[1]) for _ in range(self.n)]
+
+        self.swarm.append(self.Particles([self.b, self.d, self.w]))
+
+        for i in range(self.n_swarm - 1):
             self.swarm.append(self.Particles(self.add_value()))
 
         for i in self.swarm:
