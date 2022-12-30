@@ -216,7 +216,13 @@ class Genetic:
         return bitstring_
 
     def genetic_algorithm(self):
-        for i in range(self.n_pop):
+        self.b = [[1 for _ in range(n_bits)] for _ in range(self.n)]
+        self.d = [[1 for _ in range(n_bits)] for _ in range(self.n)]
+        self.w = [[1 for _ in range(n_bits)] for _ in range(self.n)]
+
+        self.pop.append(self.Member([self.b, self.d, self.w]))
+
+        for i in range(self.n_pop - 1):
             self.pop.append(self.Member(self.create_chromosome()))
 
         self.best_fitness = 0.0
