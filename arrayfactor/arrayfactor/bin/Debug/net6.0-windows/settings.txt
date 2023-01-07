@@ -1,6 +1,0 @@
-PythonIde=
-GeneticAlgorithmLinear=
-GeneticAlgorithmCircular=
-ParticleSwarmOptimizationLinear=
-ParticleSwarmOptimizationCircular=
-Database=
