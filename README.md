@@ -30,7 +30,7 @@ Within the scope of TÜBİTAK 2209-A - University Students Research Projects Sup
 ![Screenshot 2023-01-07 190114](https://user-images.githubusercontent.com/103145392/211160424-737c07bc-8950-4361-9202-d73a0667fc50.png)
 
 
-![Screenshot 2023-01-07 190131](https://user-images.githubusercontent.com/103145392/211160425-f8461cbb-8839-4b4f-8e70-80c262f0bd8a.png)
+![Screenshot 2023-01-07 192956](https://user-images.githubusercontent.com/103145392/211160826-548453e7-b92f-4e36-af23-55acc9fe0a07.png)
 
 
 ![Screenshot 2023-01-07 192711](https://user-images.githubusercontent.com/103145392/211160741-983a7f00-5642-453e-ab06-71c6a830dbda.png)
