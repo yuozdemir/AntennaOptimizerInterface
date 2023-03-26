@@ -1,0 +1,4 @@
+PythonIde=
+GeneticAlgorithm=
+ParticleSwarmOptimization=
+Database=
