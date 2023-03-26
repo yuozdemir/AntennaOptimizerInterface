@@ -14,6 +14,6 @@ Within the scope of TÜBİTAK 2209-A - University Students Research Projects Sup
 ![grafikler2](https://user-images.githubusercontent.com/103145392/227798830-f4f3d88a-ea04-4c6d-b183-91d316cf8a9b.png)
 ![ayarlar](https://user-images.githubusercontent.com/103145392/227798835-f2e6ec1f-afbf-4488-ac0c-08bc480fb450.png)
 ![hakkinda1](https://user-images.githubusercontent.com/103145392/227798850-9b245b63-79f7-40e0-ab01-69dad6c32eab.png)
-![hakkinda2](https://user-images.githubusercontent.com/103145392/227798876-69897c52-c2ac-46ad-8b4b-61590c8be65a.png)
+![hakkinda2](https://user-images.githubusercontent.com/103145392/227799197-900a0d81-1fd4-4d83-9cc0-f88fd0934de0.png)
 ![veritabani1](https://user-images.githubusercontent.com/103145392/227798888-80d21ecb-2a86-421b-bfcb-14b3339aee69.png)
 ![veritabani2](https://user-images.githubusercontent.com/103145392/227798890-8a0790fb-4144-4a8e-9821-b66835b41401.png)
