@@ -1,4 +1,0 @@
-PythonIde=C:\Users\encer\AppData\Local\Programs\Python\Python311\python.exe
-GeneticAlgorithm=C:\Users\encer\arrayfactor\arrayfactor\bin\Debug\net6.0-windows\Ai\ga.py
-ParticleSwarmOptimization=C:\Users\encer\arrayfactor\arrayfactor\bin\Debug\net6.0-windows\Ai\pso.py
-Database=C:\Users\encer\arrayfactor\arrayfactor\bin\Debug\net6.0-windows\Database
